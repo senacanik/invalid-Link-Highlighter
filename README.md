@@ -1,5 +1,12 @@
 # Apply Style to Invalid or Empty Links
 
+## Sample Application
+
+![image](https://github.com/user-attachments/assets/6367de96-177a-4c00-840c-72d1986de015)
+
+![image](https://github.com/user-attachments/assets/bc7c3063-979f-4b87-ae18-66289199d10b)
+
+
 This JavaScript script dynamically checks all anchor (`<a>`) tags on a webpage and applies a specific background color to those with empty or invalid `href` attributes. It helps identify and style broken or placeholder links (such as `href="#"` or `href="javascript:;"`) for better visual indication on web pages.
 
 ## Purpose
@@ -16,6 +23,13 @@ The script is designed to:
 ------------------------------------------------------------------------------------------
 
 # Geçersiz veya Boş Bağlantılara Stil Uygula
+
+## Örnek Uygulama
+
+![image](https://github.com/user-attachments/assets/6367de96-177a-4c00-840c-72d1986de015)
+
+![image](https://github.com/user-attachments/assets/bc7c3063-979f-4b87-ae18-66289199d10b)
+
 
 Bu JavaScript kodu, bir web sayfasındaki tüm bağlantı (`<a>`) etiketlerini dinamik olarak kontrol eder ve boş veya geçersiz `href` niteliklerine sahip olanlara özel bir arka plan rengi uygular. Kırık veya yer tutucu bağlantıları (örneğin `href="#"` veya `href="javascript:;"`) daha iyi görsel olarak belirgin hale getirmek için yardımcı olur.
 
