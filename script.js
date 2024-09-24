@@ -1,10 +1,11 @@
 const style = document.createElement('style');
-style.innerHTML = 
+style.innerHTML = `
     .red-bg {
         background-color: red !important; 
     }
-;
+`;
 document.head.appendChild(style);
+
 setTimeout(() => {
     document.querySelectorAll('a').forEach(function(a) {
         const hrefValue = a.getAttribute('href');
@@ -12,4 +13,4 @@ setTimeout(() => {
             a.classList.add('red-bg');
         }
     });
-}, 1000); 
+}, 1000);
